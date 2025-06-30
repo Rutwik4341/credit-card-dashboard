@@ -42,4 +42,4 @@ This project visualizes credit card customer and transaction data using Tableau 
 ## 👤 Author
 **Rutwik Findoliya** – Data Analyst & Tableau Developer  
 📍 Erlangen, Germany  
-🌐 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
+🌐 [LinkedIn](https://www.linkedin.com/rutwik-findoliya) 
